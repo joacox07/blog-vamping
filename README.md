@@ -1,9 +1,29 @@
-# blog-vamping
-trabajo de tic 2023 vamping
+<img align="right" src="https://fotografias-compromiso.atresmedia.com/clipping/cmsimages02/2019/03/29/56B75CC6-E2D2-4199-8B67-231B922C9821/58.jpg" width="350" alt="Windows 11 Running On A Poco X3 Pro">
 
 
-integrantes: joaquin carreras; valentino grande
+# trabajo tic 2023
+
+trabajo de tic , un blog sobre vamping
 
 
+## pagina web
 
-#link:   https://641a698c7052682cda852351--effulgent-paletas-866d28.netlify.app/index.html#
+- [index](web/index.html)
+
+- [styles](web/styles.css)
+
+
+## Miscellaneous
+
+- [Dualboot Setup](guide/dualboot-selection.md)
+
+- [Project Status](guide/status-selection.md)
+
+- [Troubleshooting](guide/troubleshooting-selection.md)
+
+- [Driver updating instructions](guide/driver-updating-selection.md)
+
+## integrantes
+
+valentino grande
+joaquin carreras
