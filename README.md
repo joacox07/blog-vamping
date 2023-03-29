@@ -27,5 +27,8 @@ trabajo de tic , un blog sobre vamping
   
 ## integrantes
 
+  
+  | [<img src="https://avatars.githubusercontent.com/u/87675718?s=400&v=4" width=115><br><sub>valentino grande</sub>](https://github.com/drtino7)
+  
 valentino grande
 joaquin carreras
