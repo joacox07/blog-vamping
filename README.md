@@ -1,6 +1,5 @@
 
-<p align="center">
-  <a href="https://github.com/doocs/leetcode"><img src="https://img.shields.io/badge/langs-HTML%20%7C%20CSS-red?style=flat-square&color=42b883" alt="languages"></a>
+<p align="center"><img src="https://img.shields.io/badge/langs-HTML%20%7C%20CSS-red?style=flat-square&color=42b883" alt="languages"></a>
  
  <img align="right" src="https://fotografias-compromiso.atresmedia.com/clipping/cmsimages02/2019/03/29/56B75CC6-E2D2-4199-8B67-231B922C9821/58.jpg" width="350" alt="vamping">
 
